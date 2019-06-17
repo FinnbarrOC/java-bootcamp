@@ -34,7 +34,7 @@ class Main {
     System.out.println(33432 / 596);
     System.out.println(25 * 24 * 23 / 87);
 
-    // 3) TYPE CONVERSION: all varibles have fixed types, but we can convert between types if needed
+    // 5) TYPE CONVERSION: all varibles have fixed types, but we can convert between types if needed
 
     String stringNumber = "10";
     System.out.println(stringNumber + 7);  // This does NOT give us 17 like we would expect!
